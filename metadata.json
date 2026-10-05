@@ -1,0 +1,6 @@
+{
+  "name": "Pétale & Tige Floral Atelier",
+  "description": "Artisanal flower shop featuring an online catalog, flexible delivery scheduling, secure checkout, verified customer reviews, and live order tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
